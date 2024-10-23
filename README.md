@@ -6,7 +6,7 @@ INTJ sx/sp 6w5
 
 
 
-### Language and Tools
+### Languages and Tools
 <img align="left" alt = "Java" width = "30" style="padding-righ=10px;" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" />
 <img align="left" alt = "Java" width = "30" style="padding-righ=10px;" src="https://img.icons8.com/?size=100&id=101665&format=png&color=000000" />
 <img align="left" alt = "Java" width = "30" style="padding-righ=10px;" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" />
