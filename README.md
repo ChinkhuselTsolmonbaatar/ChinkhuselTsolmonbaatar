@@ -1,5 +1,13 @@
 ## Hi there 👋
+Hard to pronounce my name? Its okey, you can call me Leon. MEET THE FUTURE Virtual Doctor.
+When i was in High School, i claimed State Champion of Math and Algorithm, therefore i really obssessed coding, hacking and analyzing :).
+Still want to study more, eager for extend my knowledge.
+INTJ sx/sp 6w5
 
+
+
+### Language and Tools
+<img align="left" alt = "Java" width = "30" style="padding-righ=10px;" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" />
 <!--
 **ChinkhuselTsolmonbaatar/ChinkhuselTsolmonbaatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
