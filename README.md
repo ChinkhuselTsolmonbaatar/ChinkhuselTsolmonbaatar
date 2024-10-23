@@ -12,7 +12,7 @@ INTJ sx/sp 6w5
 <img align="left" alt = "Java" width = "30" style="padding-righ=10px;" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" />
 <img align="left" alt = "Java" width = "30" style="padding-righ=10px;" src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" />
 <img align="left" alt = "Java" width = "30" style="padding-righ=10px;" src="https://img.icons8.com/?size=100&id=e2hIFBAN6UIe&format=png&color=000000" />
-<img align="left" alt = "Java" width = "30" style="padding-righ=10px;" src="https://iconduck.com/icons/303628/packet-tracer?shared" />
+<img align="left" alt = "Java" width = "30" style="padding-righ=10px;" src="https://static-00.iconduck.com/assets.00/packet-tracer-icon-510x512-926z1cd4.png" />
 <img align="left" alt = "Java" width = "30" style="padding-righ=10px;" src="https://img.icons8.com/?size=100&id=13406&format=png&color=000000" />
 <!--
 **ChinkhuselTsolmonbaatar/ChinkhuselTsolmonbaatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
