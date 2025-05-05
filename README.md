@@ -6,7 +6,7 @@ Still want to study more, eager for extend my knowledge.
 Metasploitable2 Report : https://github.com/ChinkhuselTsolmonbaatar/PenTestReports/blob/main/Metasploitable2_report.pdf
 
 Lifelong Student of https://academy.hackthebox.com/dashboard
-You can check my finished courses from Project Section.
+You can check my finished courses from https://github.com/ChinkhuselTsolmonbaatar/HackTheBox/blob/main/ChinkhuselHackTheBoxProgress.pdf
 
 ### Languages and Tools
 <img align="left" alt = "Java" width = "30" style="padding-righ=10px;" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" />
