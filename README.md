@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hard to pronounce my name? Its okey, you can call me Leon. MEET THE FUTURE Virtual Doctor.
-When i was in High School, i claimed State Champion of Math and Algorithm, therefore i really obssessed coding, hacking and analyzing :).
+When i was in High School, really obssessed coding, hacking and analyzing :).
 Still want to study more, eager for extend my knowledge.
 
 Metasploitable2 Report : https://github.com/ChinkhuselTsolmonbaatar/PenTestReports/blob/main/Metasploitable2_report.pdf
